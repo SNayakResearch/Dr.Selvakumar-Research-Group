@@ -17,6 +17,28 @@
 
 ---
 
+## Citation
+
+If you use MOFDB25, please cite the associated publication:
+
+> **S. Nayak and S. Karuthapandi**, “Discerning the underlying trends in electrocatalytic hydrogen evolution activity of MOF/MOF-derived materials using data-driven approach,” *Energy and AI*, **24** (2026) 100708.  
+> DOI: **10.1016/j.egyai.2026.100708**
+
+### BibTeX
+
+```bibtex
+@article{Nayak2026MOFDB25,
+  title   = {Discerning the underlying trends in electrocatalytic hydrogen evolution activity of MOF/MOF-derived materials using data-driven approach},
+  author  = {Nayak, Sachidananda and Karuthapandi, Selvakumar},
+  journal = {Energy and AI},
+  volume  = {24},
+  pages   = {100708},
+  year    = {2026},
+  doi     = {10.1016/j.egyai.2026.100708}
+}
+```
+---
+
 ## Overview
 
 **MOFDB25** is a manually curated literature-derived database developed for the systematic analysis of **MOF and MOF-derived electrocatalysts for the hydrogen evolution reaction (HER)**.
@@ -415,19 +437,13 @@ If you use MOFDB25, please cite the associated publication:
 Department of Chemistry, School of Advanced Sciences  
 VIT-AP University, Amaravati, Andhra Pradesh, India
 
+Author: `sachidanandanitr@gmail.com`
+
 **Selvakumar Karuthapandi**  
 Department of Chemistry, School of Advanced Sciences  
 VIT-AP University, Amaravati, Andhra Pradesh, India
 
 Corresponding author: `selvakumar.k@vitap.ac.in`
-
----
-
-## Acknowledgement
-
-This work was supported by the **VIT-AP University seed grant provided under RGEMS**, project number:
-
-`VIT-AP/SPORIC/RGEMS/2022-23/008`
 
 ---
 
@@ -448,25 +464,6 @@ MOFDB25 is a literature-derived research database. Reported experimental values 
 The database should therefore be used as a **research and data-analysis resource**, not as a direct replacement for experimental validation.
 
 ---
-
-## Repository Roadmap
-
-Planned/possible future developments:
-
-- [ ] Public CSV release
-- [ ] Excel version with full metadata
-- [ ] Formal data dictionary
-- [ ] DOI/source traceability for every entry
-- [ ] Automated data-validation scripts
-- [ ] Reproducible PCA workflow
-- [ ] Reproducible K-Means workflow
-- [ ] Supervised ML notebooks
-- [ ] SHAP-based model interpretation
-- [ ] Additional structural descriptors
-- [ ] DFT-derived descriptors
-- [ ] Continuous database updates
-- [ ] MOFDB25 web dashboard
-
 ---
 
 <p align="center">
