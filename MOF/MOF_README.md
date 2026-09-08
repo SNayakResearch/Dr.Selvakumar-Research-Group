@@ -189,7 +189,7 @@ The original study summarizes the database and data-driven workflow as follows:
 
 ## Citation
 
-If you use MOFDB25, please cite the associated publication:
+If this work helps you out, please consider citing us. Thank you!, citaion details associated publication:
 
 > **S. Nayak and S. Karuthapandi**, “Discerning the underlying trends in electrocatalytic hydrogen evolution activity of MOF/MOF-derived materials using data-driven approach,” *Energy and AI*, **24** (2026) 100708.  
 > DOI: **10.1016/j.egyai.2026.100708**
