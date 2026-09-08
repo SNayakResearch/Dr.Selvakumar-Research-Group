@@ -214,13 +214,17 @@ If you use MOFDB25, please cite the associated publication:
 Department of Chemistry, School of Advanced Sciences  
 VIT-AP University, Amaravati, Andhra Pradesh, India
 
-Author: `sachidanandanitr@gmail.com`
+Author: <a href="mailto:sachidanandanitr@gmail.com">
+  <i class="fas fa-envelope"></i> sachidanandanitr@gmail.com
+</a>
 
 **Selvakumar Karuthapandi**  
 Department of Chemistry, School of Advanced Sciences  
 VIT-AP University, Amaravati, Andhra Pradesh, India
 
-Corresponding author: `selvakumar.k@vitap.ac.in`
+Corresponding author: <a href="mailto:selvakumar.k@vitap.ac.in">
+  <i class="fas fa-envelope"></i> selvakumar.k@vitap.ac.in
+</a>
 
 ---
 
